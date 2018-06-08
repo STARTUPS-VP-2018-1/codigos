@@ -1,0 +1,34 @@
+
+
+
+
+ Avaliação do Trabalho(AV2): 
+ Diagrama de Classe e Caso de Uso.*
+ Analise do Trello (Aplicação do Scrum - Daily's/Scrum Master)
+ Codigos no GIT (Versionamento de código)
+ Aplicação do Domain Driven Design(DDD)
+	Dominios 
+	Repositorio (Banco de dados Fake)	
+	Rascunho Inicial
+ Aplicação de Test Driven Developer(TDD)
+ Aplicação de Orientação a Objetos
+	Criação de:
+               Interfaces
+			   Objetos
+			   Classes
+	           Herança
+			   Business
+			   Formatação do Código
+			   Tratamento de Exceções{Try/Catch}
+			   Condicionais(if/else)
+			   Iterações(for,while)
+			   Static
+			   Polimorfismo
+			   Constantes
+			   Construtores			   
+ Tela orientada a Objetos
+	Aplicaçao de Programação Orientação a Eventos em Orientação a Objetos
+	Navegação de Telas
+    TestMock dos business.
+	
+ 
